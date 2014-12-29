@@ -1,0 +1,13 @@
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\classes\debug
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-90c1c61d33be714208c171728a787bca1868458f.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.5.0-rc1-7c35376f4c480d34f622590ca2628c847ec0d6bc.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-7ed846bf23f9f8c2fd922358f79183a2458f10bd.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-033c9a86c53b4b36fb110ced77290c5f7a69dd9e.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-59b0f1e5c1759a3e4fce23241b77d2d2e175e309.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\android-iconify-1.0.8-f144a3ea49d7dd2d768775ace4c5ed37b0cc7ccd.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-core-2.5.0-rc1-5fcc5461a8a80ced7ac042a18b27935d41f27c9a.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-e41103e99adc83617fc5bf356afd44841b0fdbeb.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-f322e58dcba7e2fb327786ad3b0c142cec55150e.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-5d25c9a40e991228acea59c40597a6891c802742.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-databind-2.5.0-rc1-0cda8e8359bc33a3590d14f20c2a7ebc15a97f7c.jar
+C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-15c84e279c7541a2205f0825e97a586d30363be8.jar

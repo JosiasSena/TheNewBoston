@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@android:drawable/screen_background_dark_transparent"
+    tools:context="com.TheNewBoston.MainActivity$PlaceholderFragment"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="THE"
+            android:textColor="@android:color/white"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEW"
+            android:textColor="@android:color/holo_red_light"
+            android:textStyle="bold"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="boston"
+            android:textColor="@android:color/white"
+            android:textSize="35sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:text="@string/welcome2"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:id="@+id/computerScienceBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="{fa-code} Computer Science"
+        android:background="@drawable/computer_science_main_btn"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/mathBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="{fa-line-chart} Mathematics"
+        android:background="@drawable/math_main_btn"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/scienceBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="{fa-leaf} Science"
+        android:background="@drawable/science_main_btn"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/humanitiesBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="{fa-book} Humanities"
+        android:background="@drawable/humanities_main_btn"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/socialSciencesBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="{fa-globe} Social Sciences"
+        android:background="@drawable/social_sciences_main_btn"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/businessBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="{fa-money} Business"
+        android:background="@drawable/business_main_btn"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

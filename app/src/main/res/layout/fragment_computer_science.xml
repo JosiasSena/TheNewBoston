@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.TheNewBoston.ComputerScienceFragment"
+    android:background="@android:drawable/screen_background_dark_transparent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COMPUTER"
+            android:textSize="30sp"
+            android:fontFamily="times"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_red_dark" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Science"
+            android:textSize="25sp"
+            android:fontFamily="times"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/adobeBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Adobe"
+            android:background="@drawable/humanities_main_btn"
+            android:textSize="12sp"/>
+
+        <Button
+            android:id="@+id/computerProgrammingBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Computer Programming"
+            android:background="@drawable/computer_science_main_btn"
+            android:textSize="12sp"
+            android:layout_marginStart="5dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/computerScienceBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Computer Science"
+            android:background="@drawable/science_main_btn"
+            android:layout_marginTop="5dp"
+            android:textSize="12sp"/>
+
+        <Button
+            android:id="@+id/educationalBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Educational"
+            android:background="@drawable/math_main_btn"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:textSize="12sp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/otherBtn"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:text="Other"
+        android:background="@drawable/social_sciences_main_btn"
+        android:layout_marginTop="5dp" />
+
+</LinearLayout>

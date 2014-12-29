@@ -1,0 +1,10 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#343436"
+    android:choiceMode="singleChoice"
+    android:divider="#575757"
+    android:dividerHeight="1dp"
+    tools:context="com.TheNewBoston.NavigationDrawerFragment" />
+<!-- From: file:/C:/Users/josia_000/Desktop/AndroidStudioProjects/The%20New%20Boston/app/src/main/res/layout/fragment_navigation_drawer.xml -->

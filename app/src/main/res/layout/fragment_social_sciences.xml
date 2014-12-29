@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.TheNewBoston.SocialSciencesFragment"    android:background="@android:drawable/screen_background_dark_transparent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social Sciences"
+        android:textSize="30sp"
+        android:fontFamily="times"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_orange_light"
+        android:layout_marginBottom="10dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/anthropologyBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Anthropology"
+            android:background="@drawable/humanities_main_btn"/>
+
+        <Button
+            android:id="@+id/psBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Political Science"
+            android:background="@drawable/computer_science_main_btn"
+            android:layout_marginStart="5dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/psychologyBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Psychology"
+            android:background="@drawable/science_main_btn"
+            android:layout_marginTop="5dp"/>
+
+        <Button
+            android:id="@+id/sociologyBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Sociology"
+            android:background="@drawable/math_main_btn"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/ssOtherBtn"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:text="Other"
+        android:background="@drawable/social_sciences_main_btn"
+        android:layout_marginTop="5dp" />
+
+</LinearLayout>

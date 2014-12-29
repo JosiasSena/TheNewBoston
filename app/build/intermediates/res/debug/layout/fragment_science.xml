@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.TheNewBoston.ScienceFragment"    android:background="@android:drawable/screen_background_dark_transparent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science"
+        android:textSize="30sp"
+        android:fontFamily="times"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_green_light"
+        android:layout_marginBottom="10dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/biologyBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Biology"
+            android:background="@drawable/humanities_main_btn"/>
+
+        <Button
+            android:id="@+id/chemistryBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Chemistry"
+            android:background="@drawable/computer_science_main_btn"
+            android:layout_marginStart="5dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/physicsBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Physics"
+            android:background="@drawable/science_main_btn"
+            android:layout_marginTop="5dp"/>
+
+        <Button
+            android:id="@+id/otherBtn"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:text="Other"
+            android:background="@drawable/math_main_btn"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/josia_000/Desktop/AndroidStudioProjects/The%20New%20Boston/app/src/main/res/layout/fragment_science.xml -->
