@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.TheNewBoston.ComputerScienceFragment"
+    tools:context="com.TheNewBoston.fragments.ComputerScienceFragment"
     android:background="@android:drawable/screen_background_dark_transparent"
     android:orientation="vertical"
     android:gravity="center_horizontal">
@@ -52,7 +52,8 @@
             android:text="Computer Programming"
             android:background="@drawable/computer_science_main_btn"
             android:textSize="12sp"
-            android:layout_marginStart="5dp"/>
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"/>
 
     </LinearLayout>
 
@@ -78,6 +79,7 @@
             android:background="@drawable/math_main_btn"
             android:layout_marginTop="5dp"
             android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
             android:textSize="12sp"/>
 
     </LinearLayout>

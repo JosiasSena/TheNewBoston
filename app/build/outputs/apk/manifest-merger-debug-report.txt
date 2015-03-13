@@ -80,7 +80,7 @@ ADDED from AndroidManifest.xml:31:9
 		ADDED from AndroidManifest.xml:33:13
 	android:name
 		ADDED from AndroidManifest.xml:32:13
-activity#com.TheNewBoston.Splash
+activity#com.TheNewBoston.activities.SplashActivity
 ADDED from AndroidManifest.xml:34:9
 	android:label
 		ADDED from AndroidManifest.xml:36:13
@@ -96,7 +96,7 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:40:17
 	android:name
 		ADDED from AndroidManifest.xml:40:27
-activity#com.TheNewBoston.MainActivity
+activity#com.TheNewBoston.activities.MainActivity
 ADDED from AndroidManifest.xml:43:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:47:13
@@ -158,7 +158,7 @@ action#com.Thenewboston.EDUCATIONAL
 ADDED from AndroidManifest.xml:79:17
 	android:name
 		ADDED from AndroidManifest.xml:79:25
-activity#com.TheNewBoston.Videos
+activity#com.TheNewBoston.utils.Videos
 ADDED from AndroidManifest.xml:84:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:91:13
@@ -186,6 +186,12 @@ ADDED from AndroidManifest.xml:98:9
 		ADDED from AndroidManifest.xml:100:13
 	android:name
 		ADDED from AndroidManifest.xml:99:13
+activity#com.TheNewBoston.activities.DonateActivity
+ADDED from AndroidManifest.xml:102:9
+	android:label
+		ADDED from AndroidManifest.xml:104:13
+	android:name
+		ADDED from AndroidManifest.xml:103:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 MERGED from com.google.android.gms:play-services:6.5.87:18:5

@@ -18,6 +18,6 @@ public final class R {
 		public static final int text_view_background_selector = 0x7f02007b;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f0c0011;
+		public static final int app_name = 0x7f0c0012;
 	}
 }

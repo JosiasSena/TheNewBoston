@@ -1,7 +1,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.thenewboston.MainActivity" >
-
+    tools:context="com.TheNewBoston.activities.MainActivity">
+    <item
+        android:id="@+id/donateButton"
+        android:title="@string/donateBtn"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
 </menu>
 <!-- From: file:/C:/Users/josia_000/Desktop/AndroidStudioProjects/The%20New%20Boston/app/src/main/res/menu/main.xml -->

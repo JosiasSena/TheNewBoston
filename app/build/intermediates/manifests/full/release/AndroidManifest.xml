@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.TheNewBoston"
-    android:versionCode="27"
-    android:versionName="4" >
+    android:versionCode="29"
+    android:versionName="6" >
 
     <uses-sdk
-        android:minSdkVersion="17"
+        android:minSdkVersion="14"
         android:targetSdkVersion="21" />
 
     <supports-screens
@@ -43,7 +43,7 @@
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
         <activity
-            android:name="com.TheNewBoston.Splash"
+            android:name="com.TheNewBoston.activities.SplashActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -52,7 +52,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.TheNewBoston.MainActivity"
+            android:name="com.TheNewBoston.activities.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
@@ -93,7 +93,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.TheNewBoston.Videos"
+            android:name="com.TheNewBoston.utils.Videos"
             android:clearTaskOnLaunch="true"
             android:hardwareAccelerated="true"
             android:label="@string/app_name"
@@ -109,6 +109,10 @@
         <activity
             android:name="com.TheNewBoston.ComputerScienceActivity"
             android:label="@string/title_activity_computer_science" >
+        </activity>
+        <activity
+            android:name="com.TheNewBoston.activities.DonateActivity"
+            android:label="@string/title_activity_donate" >
         </activity>
     </application>
 

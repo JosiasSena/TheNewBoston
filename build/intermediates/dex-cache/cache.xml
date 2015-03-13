@@ -9,18 +9,18 @@
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-f322e58dcba7e2fb327786ad3b0c142cec55150e.jar" />
     </item>
     <item
-        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
-        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-033c9a86c53b4b36fb110ced77290c5f7a69dd9e.jar" />
-    </item>
-    <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\libs\libGoogleAnalyticsServices.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-5d25c9a40e991228acea59c40597a6891c802742.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.5.0-rc1\16bccfd5b448c8d57ec840c89253a8ec1add1c68\jackson-databind-2.5.0-rc1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16bccfd5b448c8d57ec840c89253a8ec1add1c68">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-databind-2.5.0-rc1-0cda8e8359bc33a3590d14f20c2a7ebc15a97f7c.jar" />
     </item>
     <item
         jar="C:\Users\josia_000\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.0-rc1\e63e7b4f6ddf5bdc650ba93b5dc46f8b376abc15\jackson-core-2.5.0-rc1.jar"
@@ -37,6 +37,13 @@
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.5.0-rc1-7c35376f4c480d34f622590ca2628c847ec0d6bc.jar" />
     </item>
     <item
+        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.felipecsl.asymmetricgridview\library\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f13add38f8ba563cded707cd5725200e4c4ddf49">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-7ed846bf23f9f8c2fd922358f79183a2458f10bd.jar" />
+    </item>
+    <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.1"
@@ -46,9 +53,30 @@
     <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
         jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-15c84e279c7541a2205f0825e97a586d30363be8.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-59b0f1e5c1759a3e4fce23241b77d2d2e175e309.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
         revision="21.1.1"
         sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-15c84e279c7541a2205f0825e97a586d30363be8.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\.gradle\caches\modules-2\files-2.1\com.joanzapata.android\android-iconify\1.0.8\7bba1039e3413ac0c82452b431a4aaa76648f7e9\android-iconify-1.0.8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bba1039e3413ac0c82452b431a4aaa76648f7e9">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\android-iconify-1.0.8-f144a3ea49d7dd2d768775ace4c5ed37b0cc7ccd.jar" />
     </item>
     <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.felipecsl.asymmetricgridview\library\1.1.0\classes.jar"
@@ -56,6 +84,13 @@
         revision="21.1.1"
         sha1="f13add38f8ba563cded707cd5725200e4c4ddf49">
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-7ed846bf23f9f8c2fd922358f79183a2458f10bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-e41103e99adc83617fc5bf356afd44841b0fdbeb.jar" />
     </item>
     <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
@@ -74,6 +109,13 @@
     <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\libs\YouTubeAndroidPlayerApi.jar"
         jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-033c9a86c53b4b36fb110ced77290c5f7a69dd9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
         revision="21.1.1"
         sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-033c9a86c53b4b36fb110ced77290c5f7a69dd9e.jar" />
@@ -86,9 +128,37 @@
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-databind-2.5.0-rc1-0cda8e8359bc33a3590d14f20c2a7ebc15a97f7c.jar" />
     </item>
     <item
+        jar="C:\Users\josia_000\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.5.0-rc1\34cb83675ffd43e180ea38e167ca03498acd6209\jackson-annotations-2.5.0-rc1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="34cb83675ffd43e180ea38e167ca03498acd6209">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.5.0-rc1-7c35376f4c480d34f622590ca2628c847ec0d6bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.0-rc1\e63e7b4f6ddf5bdc650ba93b5dc46f8b376abc15\jackson-core-2.5.0-rc1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e63e7b4f6ddf5bdc650ba93b5dc46f8b376abc15">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\jackson-core-2.5.0-rc1-5fcc5461a8a80ced7ac042a18b27935d41f27c9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\classes-f322e58dcba7e2fb327786ad3b0c142cec55150e.jar" />
+    </item>
+    <item
+        jar="C:\Users\josia_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-90c1c61d33be714208c171728a787bca1868458f.jar" />
+    </item>
+    <item
         jar="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\libs\libGoogleAnalyticsServices.jar"
         jumboMode="false"
-        revision="20.0.0"
+        revision="21.1.2"
         sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
         <dex dex="C:\Users\josia_000\Desktop\AndroidStudioProjects\The New Boston\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-5d25c9a40e991228acea59c40597a6891c802742.jar" />
     </item>

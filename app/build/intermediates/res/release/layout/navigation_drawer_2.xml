@@ -46,6 +46,6 @@
         android:choiceMode="singleChoice"
         android:divider="#575757"
         android:dividerHeight="1dp"
-        tools:context="com.TheNewBoston.NavigationDrawerFragment" />
+        tools:context="com.TheNewBoston.fragments.NavigationDrawerFragment" />
 
 </LinearLayout><!-- From: file:/C:/Users/josia_000/Desktop/AndroidStudioProjects/The%20New%20Boston/app/src/main/res/layout/navigation_drawer_2.xml -->

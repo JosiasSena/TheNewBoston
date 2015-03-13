@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.TheNewBoston"
-    android:versionCode="27"
-    android:versionName="4" >
+    android:versionCode="29"
+    android:versionName="6" >
 
     <supports-screens
         android:anyDensity="true"
@@ -32,7 +32,7 @@
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
         <activity
-            android:name=".Splash"
+            android:name=".activities.SplashActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -41,7 +41,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
@@ -82,7 +82,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Videos"
+            android:name=".utils.Videos"
             android:clearTaskOnLaunch="true"
             android:hardwareAccelerated="true"
             android:label="@string/app_name"
@@ -98,6 +98,10 @@
         <activity
             android:name=".ComputerScienceActivity"
             android:label="@string/title_activity_computer_science" >
+        </activity>
+        <activity
+            android:name=".activities.DonateActivity"
+            android:label="@string/title_activity_donate" >
         </activity>
     </application>
 
